@@ -39,9 +39,9 @@
 
 Just kidding.
 
-I'm a fullcycle software engineer with 5+ years of experience. I've work experience in financial institutions and learning management ones. Currently I'm proud lending my skills to transform financial education in Brazil and help investors to be independent at (@tradersclub)[https://github.com/tradersclub]. Given my profile of always in search of new challenges I've some expertise in working with some DevOps solutions.
+I'm a fullcycle software engineer with 5+ years of experience. I've work experience in financial institutions and learning management ones. Currently I'm proud lending my skills to transform financial education in Brazil and help investors to be independent at [@tradersclub](https://github.com/tradersclub). Given my profile of always in search of new challenges I've some expertise in working with some DevOps solutions.
 
-I'm also a proud open-sourceror, always publishing a new idea here at Github (the most successfull ones are pinned at this profile).
+I'm also a proud open-sourceror, always publishing a new idea here at Github (the most successfull ones are pinned below).
 
 
 I like to think of me as being a fulltime scientist, because I'm always learning, trying and eventually, applying, new techs.
@@ -63,7 +63,6 @@ If you want to see more of my techstack, please, [click here](https://www.stacks
 [![Twitter](https://img.shields.io/badge/%40kevinfaguiar-Twitter-2EA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/kevinfaguiar)
 [![LinkedIn](https://img.shields.io/badge/Kevin-LinkedIn-1F77B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevin-de-faveri-aguiar-786972142)
 [![Twitch](https://img.shields.io/badge/kevinismymain-Twitch-9147FF?style=for-the-badge&logo=twitch)](https://www.twitch.tv/kevinismymain)
-
 
 ---
 
