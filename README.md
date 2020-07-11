@@ -64,6 +64,8 @@ If you want to see more of my techstack, please, [click here](https://www.stacks
 [![LinkedIn](https://img.shields.io/badge/Kevin-LinkedIn-1F77B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevin-de-faveri-aguiar-786972142)
 [![Twitch](https://img.shields.io/badge/kevinismymain-Twitch-9147FF?style=for-the-badge&logo=twitch)](https://www.twitch.tv/kevinismymain)
 
+---
+
 #### Oh, here goes a quote I like a lot:
 
 *“We make our world significant by the courage of our questions and the depth of our answers”*
