@@ -39,7 +39,7 @@
 
 Just kidding.
 
-I'm a fullcycle software engineer with 5+ years of experience. I've work experience in financial institutions and learning management ones. Currently I'm proud lending my skills to transform financial education in Brazil and help investors to be independent at [@tradersclub](https://github.com/tradersclub). Currently available for freelancing, get in touch.
+I'm a fullcycle software engineer with 5+ years of experience. I've work experience in financial institutions and learning management ones. Currently I'm proud lending my skills to transform financial education in Brazil and help investors to be independent at [@tradersclub](https://github.com/tradersclub). Currently available to freelance jobs.
 
 I'm also a proud open-sourceror, always publishing a new idea here at Github (the most successfull ones are pinned below).
 
