@@ -39,7 +39,7 @@
 
 Just kidding.
 
-I'm a fullcycle software engineer with 5+ years of experience. I've work experience in financial institutions and learning management ones. Currently I'm proud lending my skills to transform financial education in Brazil and help investors to be independent at [@tradersclub](https://github.com/tradersclub). Given my profile of always in search of new challenges I've some expertise in working with some DevOps solutions.
+I'm a fullcycle software engineer with 5+ years of experience. I've work experience in financial institutions and learning management ones. Currently I'm proud lending my skills to transform financial education in Brazil and help investors to be independent at [@tradersclub](https://github.com/tradersclub). Currently available for freelancing, get in touch.
 
 I'm also a proud open-sourceror, always publishing a new idea here at Github (the most successfull ones are pinned below).
 
@@ -52,7 +52,7 @@ I like to think of me as being a fulltime scientist, because I'm always learning
 
 Well... I've expertise working with Java and NodeJS *ecosystems* for backend solutions: Rest APIs, GRAPHQL APIs, common frameworks (Spring Boot, Express, etc)... I also have a passion for working as frontend (React, React Native and Vue) because I find it to exercise my creative side a lot.
 
-As I said, because of some curiosity about DevOps, it's worth mentioning that I've got a very good understanding of CI/CD tools, Docker and Kubernetes.
+Because of some curiosity about DevOps, it's worth mentioning that I've got a very good understanding of CI/CD tools, Docker and Kubernetes.
 
 If you want to see more of my techstack, please, [click here](https://www.stackshare.io/kevinfaguiar/kevin-techstack).
 
