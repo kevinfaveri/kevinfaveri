@@ -39,12 +39,12 @@
 
 Just kidding.
 
-I'm a fullcycle software engineer with 5+ years of experience. I've work experience in financial institutions and learning management ones. Currently I'm proud lending my skills to transform financial education in Brazil and help investors to be independent at [@tradersclub](https://github.com/tradersclub). Currently available to freelance jobs.
+I'm a full-cycle software engineer with 5+ years of experience. I've work experience in financial institutions and learning management ones. Currently, I'm proudly lending my skills to help the [future of education in the USA](https://soraschools.com/). Currently available for freelance jobs.
 
-I'm also a proud open-sourceror, always publishing a new idea here at Github (the most successfull ones are pinned below).
+I'm also a proud open-sourceror, always publishing a new idea here at Github (the most successful ones are pinned below).
 
 
-I like to think of me as being a fulltime scientist, because I'm always learning, trying and eventually, applying, new techs.
+I like to think of myself as being a full-time scientist because I'm always learning, trying, and eventually, applying, new techs.
 
 ---
 
