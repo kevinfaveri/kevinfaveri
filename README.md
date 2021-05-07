@@ -74,7 +74,3 @@ If you want to see more of my techstack, please, [click here](https://www.stacks
 ---
 
 [![Portfolio Site](https://img.shields.io/badge/Portfolio-Site-232424?style=for-the-badge)](https://kevinfaveri.now.sh/)
-
----
-
-![HitCount](http://hits.dwyl.com/kevinfaguiar/kevinfaguiar/kevinfaguiar.svg)
