@@ -39,7 +39,7 @@
 
 Just kidding.
 
-I'm a full-cycle software engineer with 5+ years of experience. I've work experience in financial institutions and learning management ones. Currently, I'm proudly lending my skills to help the [future of education in the USA](https://soraschools.com/). Currently available for freelance jobs.
+I'm a full-cycle software engineer with 6+ years of experience. I've work experience in financial institutions and learning management companies. Currently, I'm proudly lending my skills to help the [future of education in the USA](https://soraschools.com/). Currently available for freelance jobs.
 
 I'm also a proud open-sourceror, always publishing a new idea here at Github (the most successful ones are pinned below).
 
@@ -51,6 +51,8 @@ I like to think of myself as being a full-time scientist because I'm always lear
 #### Hey Kevin... Tell me what you know!
 
 Well... I've expertise working with Java and NodeJS *ecosystems* for backend solutions: Rest APIs, GRAPHQL APIs, common frameworks (Spring Boot, Express, etc)... I also have a passion for working as frontend (React, React Native and Vue) because I find it to exercise my creative side a lot.
+
+Currently learning about fullstack development for blockchain based technologies like Ethereum.
 
 Because of some curiosity about DevOps, it's worth mentioning that I've got a very good understanding of CI/CD tools, Docker and Kubernetes.
 
