@@ -6,7 +6,7 @@
 
 🐶 Proud Dad of [Ghost](https://www.instagram.com/stories/highlights/18064206010048203/)
 
-***I'm*** that kind of person that gets bored easily, so I'm constantly studying new approaches, technologies, and paradigms to turn the tables... The dynamics of programming is what drives me!
+***I'm*** that kind of person that gets bored easily, so I'm constantly studying new approaches, technologies, and paradigms to turn the tables... This never ending cycle of innovation in the tech space is what drives me forward!
 
 ---
 
