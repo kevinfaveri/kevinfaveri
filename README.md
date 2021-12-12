@@ -39,7 +39,7 @@
 
 Just kidding.
 
-I'm a full-cycle software engineer with 6+ years of experience. I've work experience in financial institutions and learning management companies. Currently, I'm proudly lending my skills to help the [future of education in the USA](https://soraschools.com/). Currently available for freelance jobs.
+I'm a full-cycle software engineer with 7+ years of experience. I've work experience in financial institutions and education companies.
 
 I'm also a proud open-sourceror, always publishing a new idea here at Github (the most successful ones are pinned below).
 
@@ -52,7 +52,7 @@ I like to think of myself as being a full-time scientist because I'm always lear
 
 Well... I've expertise working with Java and NodeJS *ecosystems* for backend solutions: Rest APIs, GRAPHQL APIs, common frameworks (Spring Boot, Express, etc)... I also have a passion for working as frontend (React, React Native and Vue) because I find it to exercise my creative side a lot.
 
-Currently learning about fullstack development for blockchain based technologies like Ethereum.
+Currently sharpening my skills on Solana.
 
 Because of some curiosity about DevOps, it's worth mentioning that I've got a very good understanding of CI/CD tools, Docker and Kubernetes.
 
@@ -64,7 +64,6 @@ If you want to see more of my techstack, please, [click here](https://www.stacks
 
 [![Twitter](https://img.shields.io/badge/%40kevcode_-Twitter-2EA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/kevcode_)
 [![LinkedIn](https://img.shields.io/badge/Kevin-LinkedIn-1F77B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevin-de-faveri-aguiar-786972142)
-[![Twitch](https://img.shields.io/badge/kevinismymain-Twitch-9147FF?style=for-the-badge&logo=twitch)](https://www.twitch.tv/kevinismymain)
 
 ---
 
