@@ -1,65 +1,31 @@
-## Hi, I'm Kevin!
+## Hi, I'm Kevin Faveri!
 
-👨‍🎓 Bachelor in Computer Science
-
-🧙 Enthusiastic Open Sourcerer
-
-***I'm*** that kind of person that gets bored easily, so I'm constantly studying new approaches, technologies, and paradigms to turn the tables... This never ending cycle of innovation in the tech space is what drives me forward!
+I'm a product oriented software engineer with 9+ years of experience in the finance (tradfi and web3) and educational sectors.
+I actively contribute to open source engaging with the community through mine and others projects.
+Driven by curiosity, I'm always exploring new tech and paradigms to innovate.
 
 ---
 
-#### Well, for my history, it is a long one...
-```ascii
-.    .        .      .             . .     .        .          .          .
-         .                 .                    .                .
-  .               A long time ago in a galaxy far, far away...   .
-     .               .           .               .        .             .
-     .      .            .                 .                                .
- .      .         .         .   . :::::+::::...      .          .         .
-     .         .      .    ..::.:::+++++:::+++++:+::.    .     .
-                        .:.  ..:+:..+|||+..::|+|+||++|:.             .     .
-            .   .    :::....:::::::::++||||O||O#OO|OOO|+|:.    .
-.      .      .    .:..:..::+||OO#|#|OOO+|O||####OO###O+:+|+               .
-                 .:...:+||O####O##||+|OO|||O#####O#O||OO|++||:     .    .
-  .             ..::||+++|+++++|+::|+++++O#O|OO|||+++..:OOOOO|+  .         .
-     .   .     +++||++:.:++:..+#|. ::::++|+++||++O##O+:.++|||#O+    .
-.           . ++++++++...:+:+:.:+: ::..+|OO++O|########|++++||##+            .
-  .       .  :::+++|O+||+::++++:::+:::+++::+|+O###########OO|:+OO       .  .
-     .       +:+++|OO+|||O:+:::::.. .||O#OOO||O||#@###@######:+|O|  .
- .          ::+:++|+|O+|||++|++|:::+O#######O######O@############O
-          . ++++: .+OO###O++++++|OO++|O#@@@####@##################+         .
-      .     ::::::::::::::::::::++|O+..+#|O@@@@#@###O|O#O##@#OO####     .
- .        . :. .:.:. .:.:.: +.::::::::  . +#:#@:#@@@#O||O#O@:###:#| .      .
-                           `. .:.:.:.:. . :.:.:%::%%%:::::%::::%:::
-.      .                                      `.:.:.:.:   :.:.:.:.  .   .
-           .                                                                .
-```
+#### Techstack
 
-Just kidding.
+<p float="left">
+  <img src="https://github.com/kevinfaveri/kevinfaveri/assets/18222497/de85ee6c-40c4-4879-8e5c-7947d92c22ab" width="32" />
+  <img src="https://github.com/kevinfaveri/kevinfaveri/assets/18222497/8fc1d4ca-613a-4d2f-adeb-9c7ee957fa1a" width="32" /> 
+  <img src="https://github.com/kevinfaveri/kevinfaveri/assets/18222497/6089d040-3e3b-44e4-88eb-4982f508e704" width="32" />   
+  <img src="https://github.com/kevinfaveri/kevinfaveri/assets/18222497/3d7c93c2-8906-45c8-aac4-13b90159b215" width="32" />
+  <img src="https://github.com/kevinfaveri/kevinfaveri/assets/18222497/7c6a374f-193c-4b9d-b0b5-fee4017042ba" width="32" />
+</p>
 
-I'm a full-cycle software engineer with 8+ years of experience and a bachelor's degree in Computer Science. I've work experience in financial institutions and education companies.
 
-I'm also a proud open-sourceror, always publishing a new idea here at Github (the most successful ones are pinned below).
-
-I like to think of myself as being a full-time scientist because I'm always learning, trying, and eventually, applying, new techs.
-
----
-
-#### Hey Kevin... Tell me what you know!
-
-Well... I've expertise working with Java and NodeJS *ecosystems* for backend solutions: Rest APIs, GRAPHQL APIs, common frameworks (Spring Boot, Express, etc)... I also have a special passion for working as frontend (React, React Native, Vue) because besides exercising my creativity a lot, it is also where I feel most as an specialist.
-
-Currently, degening into the Solana blockchain ecossystem (as it can be seen with some pinned projects here).
-
-Because of some curiosity about DevOps, it's worth mentioning that I've got a very good understanding of CI/CD tools, Docker and Kubernetes.
-
-If you want to see more of my techstack, please, [click here](https://www.stackshare.io/kevinfaguiar/kevin-techstack).
+Back-end services with NodeJS and Rust; and front-end apps with React.
+Immersed in the Solana and Bitcoin ecosystems, wielding extensive knowledge on their groundbreaking technologies.
+DevOps experience in CI/CD, Docker, and Kubernetes.
 
 ---
 
 #### Oh, and if you wish to talk, reach me here
 
-[![Twitter](https://img.shields.io/badge/%40kevcode_-Twitter-2EA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/kevcode_art)
+[![Twitter](https://img.shields.io/badge/%40kevfaveri_-Twitter-2EA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/kevfaveri)
 [![LinkedIn](https://img.shields.io/badge/Kevin-LinkedIn-1F77B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevinfaveri/)
 
 ---
