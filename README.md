@@ -1,6 +1,6 @@
 ## Hi, I'm Kevin Faveri!
 
-I'm a product oriented software engineer with 9+ years of experience in the finance (tradfi and web3) and educational sectors.
+I'm a product oriented software engineer with 10+ years of experience in the finance (tradfi and web3) and educational sectors.
 I actively contribute to open source engaging with the community through mine and others projects.
 Driven by curiosity, I'm always exploring new tech and paradigms to innovate.
 
